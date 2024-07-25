@@ -18,7 +18,7 @@ When creating a new repository, keep in mind:
 
 ### Submitting your repository
 
-After you create you repository from this template, submit your repository's URL to the hackathon staff on Slack. We will then fork your repository and keep our fork updated.
+After you create you repository from this template, submit your repository's URL to the hackathon staff on Slack. Please submit the full URL, such as [https://github.com/octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife). We will then fork your repository and keep our fork updated.
 
 ### Using the repository
 
