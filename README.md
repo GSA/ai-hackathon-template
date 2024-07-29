@@ -1,6 +1,6 @@
 # Federal AI Hackathon
 
-This repository serves as a template for your team to create your own repository that you can use to submit your hackathon solution.
+This repository serves as a template for your team to create your own repository that you can use to submit your hackathon solution. You are not required to use this repository or GitHub to submit your solution, but you are required to submit all of your materials to us.
 
 ## How to use this repository as a template
 
@@ -22,7 +22,7 @@ After you create you repository from this template, submit your repository's URL
 
 ### Using the repository
 
-* The `slides` directory is for your team's one page slide that you will submit as part of your presentation. Please ensure your slide is in this directory at the time of judging.
+* The `slides` directory is for your team's final presentations. Please ensure your slides are in this directory at the time of judging.
 * You may place any and all files you wish to submit in this repository, using any project structure.
 * Please consider keeping this README file, but delete all of this template text and customize it with helpful information about your solution. There is no specific format you should follow, but you can refer to the example sections below for some ideas.
 
