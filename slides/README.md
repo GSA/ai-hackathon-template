@@ -1,3 +1,3 @@
 # Presentation slide
 
-Please place your one page slide in this directory.
+Please place your team's final presentation slides in this directory.
